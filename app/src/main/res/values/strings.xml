@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PortfolioApp</string>
+    <string name="precentage10">10th Class - 86.6%</string>
+    <string name="precentage12">12th Class - 90%</string>
+    <string name="engDec">Bachelor of Engineering : Computer Science</string>
+    <string name="engCllg">Medi-Caps University , Indore</string>
+    <string name="schl">St. Alphonsa Convent School , Shamgarh</string>
+    <string name="board">CBSE Board</string>
+    <string name="intern">Intern - EduSkills Foundation</string>
+    <string name="internDate">Dec 2022 - Feb 2023</string>
+    <string name="internDesc">AI - ML Virtual Internship</string>
+    <string name="mic">MIC ORGANIZATION (NGO)</string>
+    <string name="micDate">March 2023 - Present</string>
+    <string name="micSkills">Learnt and Worked on : Team Management| Acts of Service | Team Leading | Communication | Collaboration.</string>
+    <string name="ach1">4 - star badge in C on Hackerrank</string>
+    <string name="ach2">5 - star badge in C++ on Hackerrank</string>
+    <string name="ach3">2 Star Coder at CodeChef</string>
+    <string name="ach4">3 - Star badge in Problem Solving on Hackerrank</string>
+    <string name="ach5">AI-ML Virtual Internship Certificate</string>
+
+</resources>
